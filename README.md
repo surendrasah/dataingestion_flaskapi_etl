@@ -9,7 +9,7 @@ How you implement the challenge is up to you. The only requirements are that the
 Document any design considerations and how to run your code.
 You may use the provided files to test but your entire system will be tested on a different set of files.
 
-#Steps to execute the program:
+## Steps to execute the program:
 
 At first, delete the databaseb: data.db
 Install the necessary libraries like Flask, flask_sqlalchemy, SQLAlchemy, requests
